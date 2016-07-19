@@ -1,0 +1,136 @@
+commit 94e5fd3d9a444aa28af9e62798ea442fed88d7d4
+Merge: 6e99998 7d79422
+Author: Luis Herrera <lherrera@gignosoft.cl>
+Date:   Tue Jul 19 18:10:03 2016 -0400
+
+    Merge branch 'master' of https://github.com/yesashii/cursoLaravel
+
+commit 6e9999870cdedb389f8025d712280862c62cbef0
+Author: Luis Herrera <lherrera@gignosoft.cl>
+Date:   Tue Jul 19 16:27:14 2016 -0400
+
+    se carga ejemplo y funciona el seed
+
+commit 7d79422754efefa687007e0193dcbc066e1c1330
+Author: Luis Herrera <lherrera@gignosoft.cl>
+Date:   Fri Jul 1 15:08:46 2016 -0400
+
+    Subido el codigo curso 14
+
+commit 2711bcc72faabbf22e9055569c95ea89fda1b9eb
+Author: Luis Herrera <lherrera@gignosoft.cl>
+Date:   Thu Jun 30 22:29:24 2016 -0400
+
+    fin curso 13 controller
+
+commit 7ff0a85f9e6f0339c671aceadaa3910c141210fa
+Author: Luis Herrera <lherrera@gignosoft.com>
+Date:   Tue Jun 28 20:35:30 2016 -0400
+
+    se agrega el curso 13
+
+commit cc9fa755d7aa61539388add2ffde008a5e59e6c3
+Author: luis herrera <lherrera@gignosoft.cl>
+Date:   Wed Jun 22 15:55:56 2016 -0400
+
+    fin clase 8
+
+commit adc17864526486db8f13c4324dfa7da4c0f21a7a
+Author: Luis Herrera <lherrera@gignosoft.cl>
+Date:   Wed Jun 22 15:49:28 2016 -0400
+
+    clase 8 02
+
+commit d9b3ce7b1db0991aa0b01c668eccbf5433875f48
+Author: luis herrera <lherrera@gignosoft.cl>
+Date:   Wed Jun 22 14:07:02 2016 -0400
+
+    clase 07 01
+
+commit e64c7396f6f81a0a6c0864894b34808920c5493c
+Author: Luis Herrera <l.herrera.garnica@gmail.com>
+Date:   Tue Jun 21 23:09:52 2016 -0300
+
+    terminado el curso 7
+
+commit 43d59be1283ee39dbaa559f7d79e0687a4f710f9
+Merge: eb1f6c6 aacc793
+Author: luis herrera <lherrera@gignosoft.cl>
+Date:   Tue Jun 21 15:11:06 2016 -0400
+
+    Merge branch 'master' of https://github.com/yesashii/cursoLaravel
+    
+    se actualiza el documento
+
+commit eb1f6c61d9d6c7029b6a0ebe0a94a6d0c4e1de51
+Author: luis herrera <lherrera@gignosoft.cl>
+Date:   Tue Jun 21 15:10:46 2016 -0400
+
+    se integra al curso 5 el docx
+
+commit aacc793f2729ecb1219bc60820d63138be1b0187
+Author: Luis Herrera <lherrera@gignosoft.cl>
+Date:   Tue Jun 21 15:10:20 2016 -0400
+
+    fin curso 5 test 01
+
+commit 5f0916b4adb809b5acf8801769f2fabb9e587a13
+Author: Luis Herrera <l.herrera.garnica@gmail.com>
+Date:   Mon Jun 20 22:12:38 2016 -0300
+
+    video 5 testing en php 02
+
+commit 7dfb92793ace1317696db4f5fa2cb4f2ed2ee316
+Author: Luis Herrera <l.herrera.garnica@gmail.com>
+Date:   Mon Jun 20 22:11:39 2016 -0300
+
+    video 5 testing en php 01
+
+commit 1f6101e11346e1e4c3c3df250c2e46933920f1a3
+Author: Luis Herrera <lherrera@gignosoft.cl>
+Date:   Mon Jun 20 18:32:18 2016 -0400
+
+    licencia storm
+
+commit dd4bb695437d22ac9fad4b92d224710b0bb0be44
+Author: Luis Herrera <Luis Herrera>
+Date:   Mon Jun 20 17:52:51 2016 -0400
+
+    sin phpstormo
+
+commit 2d8d065dae05f246886a01c128fbd2f44a3d2947
+Author: Luis Herrera <l.herrera.garnica@gmail.com>
+Date:   Sun Jun 19 20:29:48 2016 -0300
+
+    subida video en el sector de getname
+
+commit a84f8c3334345e3f0fc3cd8804235eb56adf1345
+Author: Luis Herrera <l.herrera.garnica@gmail.com>
+Date:   Sun Jun 19 18:39:37 2016 -0300
+
+    subiendo mas archivos en el video 4
+
+commit f4b657e0d77731cafa6a6d0a842c6d94a22e264a
+Author: Luis Herrera <l.herrera.garnica@gmail.com>
+Date:   Sun Jun 19 18:22:06 2016 -0300
+
+    se agrega lo que se tenía en dropbox
+
+commit 084c24f5d435bba00b4ed6984519c47328084e57
+Merge: 8965fb6 f1fdd33
+Author: Luis Herrera <l.herrera.garnica@gmail.com>
+Date:   Sun Jun 19 18:10:29 2016 -0300
+
+    Merge branch 'master' of https://github.com/yesashii/cursoLaravel
+
+commit 8965fb6527e3563f1f60c0c2ab89759a1c02c113
+Author: Luis Herrera <l.herrera.garnica@gmail.com>
+Date:   Sun Jun 19 18:04:14 2016 -0300
+
+    primer commit del curso laravel
+
+commit f1fdd33485f46849067709542e65984efc1a1da9
+Author: yesashii <lherrera@gignosoft.cl>
+Date:   Sun Jun 19 17:53:37 2016 -0300
+
+    Initial commit
